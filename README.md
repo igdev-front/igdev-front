@@ -2,7 +2,6 @@
 
 ### Olá!! Eu sou Igor Rafael 😊
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7.iigx/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igdev-front.github.io/Analises-Statys/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igdev-front&show_icons=true&theme=synthwave)
